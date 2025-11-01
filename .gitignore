@@ -1,0 +1,32 @@
+# Archivos sensibles de Firebase - NUNCA subir a GitHub
+**/firebase-service-account*.json
+**/firebase-adminsdk*.json
+friendlyvoice-app-firebase-adminsdk*.json
+
+# Archivos de configuración local
+**/.env.local
+**/.env.production.local
+**/.env.development.local
+**/firebase-service-account.local.json
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Archivos temporales
+*.tmp
+*.temp
+
