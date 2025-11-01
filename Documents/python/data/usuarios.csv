@@ -1,0 +1,6 @@
+id_usuario,nombre,edad,genero,ciudad,intereses
+1,Ana,28,Femenino,Bogotá,"Deportes, Música, Viajes"
+2,Carlos,32,Masculino,Medellín,"Tecnología, Cine, Música"
+3,María,25,Femenino,Cali,"Arte, Cocina, Viajes"
+4,Juan,30,Masculino,Barranquilla,"Deportes, Tecnología, Música"
+5,Luisa,27,Femenino,Medellín,"Arte, Cine, Viajes"
