@@ -1,0 +1,12 @@
+[
+    {"id_interaccion": 1, "id_usuario": 1, "tipo": "like", "match": true, "fecha": "2025-10-01T10:00:00"},
+    {"id_interaccion": 2, "id_usuario": 2, "tipo": "like", "match": false, "fecha": "2025-10-02T11:30:00"},
+    {"id_interaccion": 3, "id_usuario": 3, "tipo": "superlike", "match": true, "fecha": "2025-10-03T15:45:00"},
+    {"id_interaccion": 4, "id_usuario": 4, "tipo": "like", "match": true, "fecha": "2025-10-04T09:15:00"},
+    {"id_interaccion": 5, "id_usuario": 5, "tipo": "dislike", "match": false, "fecha": "2025-10-05T14:20:00"},
+    {"id_interaccion": 6, "id_usuario": 1, "tipo": "superlike", "match": true, "fecha": "2025-10-06T16:30:00"},
+    {"id_interaccion": 7, "id_usuario": 2, "tipo": "like", "match": false, "fecha": "2025-10-07T13:10:00"},
+    {"id_interaccion": 8, "id_usuario": 3, "tipo": "like", "match": true, "fecha": "2025-10-08T17:45:00"},
+    {"id_interaccion": 9, "id_usuario": 4, "tipo": "dislike", "match": false, "fecha": "2025-10-09T10:30:00"},
+    {"id_interaccion": 10, "id_usuario": 5, "tipo": "superlike", "match": true, "fecha": "2025-10-10T11:20:00"}
+]
